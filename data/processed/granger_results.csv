@@ -1,0 +1,6 @@
+Test,Best Lag (h),p-value,Significant
+Sentimiento → Retorno Doge,3,0.0633,❌ NO
+Relevancia → Retorno Doge,8,0.0875,❌ NO
+Sentimiento → Retorno Tesla,1,0.0103,✅ SÍ
+Relevancia → Retorno Tesla,6,0.2705,❌ NO
+Sentimiento → Volatilidad Doge,12,0.0000,✅ SÍ

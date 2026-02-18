@@ -1,0 +1,9 @@
+{
+  "model_name": "tsla_predictor_advanced",
+  "version": "v2_improved",
+  "created_at": "2026-02-16T21:07:13.886916",
+  "trained_at": null,
+  "training_samples": null,
+  "features_count": null,
+  "cv_splits": null
+}
